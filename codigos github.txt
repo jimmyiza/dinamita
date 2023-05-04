@@ -1,0 +1,10 @@
+git clone //conar repositorio
+git init //iniciar repositroio
+git status //ver los cambios en local
+git add  //agregar cambios al status
+git pull  //descargar cambios
+git push // shbir cambios
+git fetch // descargar rama remota
+git branch // gestionar ramas
+git commit //preparar subida
+git checkout // switch o otra rama
